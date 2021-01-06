@@ -3,6 +3,8 @@
     <h5 align="center">Esse projeto é para abordar conceitos sobre FlexBox</h5>
 </h1>
 
+![Design alurinha](./layouts/alurinha-layout-desktop.png)
+
 ## Tecnologias
 
 - HTML
