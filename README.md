@@ -28,7 +28,7 @@ Para visualizar o projeto é só acessar o link abaixo:
 
 ## Para saber mais sobre FlexBox
 
->
+> https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## Autora
 
