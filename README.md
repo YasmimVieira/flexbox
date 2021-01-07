@@ -15,12 +15,20 @@
 - display: flex
 - justify-content: around; between
 - alignt-items: center
+- flex-grow
+- flex-flow
+- flex-wrap
+- flex-direction
 
 ## Link projeto
 
 Para visualizar o projeto é só acessar o link abaixo:
 
 > https://flexboxexe.netlify.app/
+
+## Para saber mais sobre FlexBox
+
+>
 
 ## Autora
 
